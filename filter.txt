@@ -5,7 +5,7 @@
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/evenxzero/Raajje-AdList 
 ! License: https://creativecommons.org/licenses/by-nc/4.0/
-! Download: https://raw.githubusercontent.com/evenxzero/Raajje-AdList/master/filter.txt
+! Download: https://raw.githubusercontent.com/Mohamed-Iyas/Raajje-AdList/master/filter.txt
 
 !vaguthu.mv/
 vaguthu.mv##body > div.v-advert:nth-of-type(1)
@@ -358,13 +358,6 @@ mendhuru.mv##div.vc_hidden-xs.vc_hidden-sm\,.vc_row.row:nth-of-type(4) > .jeg-vc
 mendhuru.mv##.isthihaaru
 ||mendhuru.mv/wp-content/uploads/2019/11/mendhuru-ads-here.png$image
 ||vaahaka.com/wp-content/uploads/2017/05/Maveshi-Vaahaka-Ad.gif$image
-
-!iru.mv/
-||826343.smushcdn.com/1644873/wp-content/uploads/2020/05/C674AB23-CBC0-45C1-994E-2CB10C6F066D-*.jpeg?*lossy=1&strip=1&webp=1$image
-||iru.mv/wp-content/uploads/2020/05/C674AB23-CBC0-45C1-994E-2CB10C6F066D-scaled.jpeg$image
-||iru.mv/wp-content/uploads/2020/05/C674AB23-CBC0-45C1-994E-2CB10C6F066D-scaled.jpeg$image
-||826343.smushcdn.com/1644873/wp-content/uploads/2019/04/xl-da@2x-1.png?*lossy=1&strip=1&webp=1$image
-||826343.smushcdn.com/1644873/wp-content/uploads/2020/03/adsmartclass*.jpg?*lossy=1&strip=1&webp=1$image
 
 !dhiyares.com/
 dhiyares.com##.mx-auto.container.md\:px-0.px-4.text-center.py-8.w-full.ads
