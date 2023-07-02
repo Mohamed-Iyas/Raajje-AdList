@@ -132,10 +132,6 @@ raajje.mv##div.col-md-12:nth-of-type(4)
 raajje.mv###fadeMe > .img-responsive.img
 ||cloudfront.net/static-files/ads^$image,domain=raajje.mv
 
-!thoora.mv/
-thoora.mv##.wide.ad
-thoora.mv##div.row > .ad
-
 !kulhudhuffushi.com
 kulhudhuffushi.com##.side-advertisement
 
