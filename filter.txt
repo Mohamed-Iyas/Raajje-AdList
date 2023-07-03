@@ -286,8 +286,6 @@ www.hithaadhoo.com##.col-md-pull-9.col-md-3
 !dhivehi.mv/
 dhivehi.mv###lBar > div > div:nth-of-type(1)
 
-!bahuru.net/
-bahuru.net##[href^="https://www.facebook.com/kitchengaloreshop4u"]
 
 !voiceofmeedhoo.info/
 www.voiceofmeedhoo.info##.df-ads.col-md-8
