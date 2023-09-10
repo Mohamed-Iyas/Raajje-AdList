@@ -384,3 +384,4 @@ adhadhu.com##div.my-5.py-3.d-lg-block.d-none:nth-of-type(3)
 adhadhu.com##.d-xl-flex.d-none.mt-3.flex-column
 adhadhu.com##.col-3.d-none.d-xl-block
 adhadhu.com##.col-3.d-flex.flex-column
+adhadhu.com##.my-5.py-3.d-lg-block.d-none
