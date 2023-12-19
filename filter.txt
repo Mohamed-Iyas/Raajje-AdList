@@ -385,3 +385,13 @@ adhadhu.com##.d-xl-flex.d-none.mt-3.flex-column
 adhadhu.com##.col-3.d-none.d-xl-block
 adhadhu.com##.col-3.d-flex.flex-column
 adhadhu.com##.my-5.py-3.d-lg-block.d-none
+
+!mihaaru.com
+platform.twitter.com##div > div.container.mx-auto > .flex.items-center.justify-center
+platform.twitter.com##div > div.container.mx-auto > .flex.items-center.justify-center
+mihaaru.com##div > div.container.mx-auto > .flex.items-center.justify-center
+mihaaru.com##div.container.mx-auto.mb-10.xl\:px-0.flex.flex-row-reverse.flex-wrap:nth-of-type(6) > .flex-1
+mihaaru.com##.pt-10.sticky.top-0.hidden.lg\:block
+platform.twitter.com##.pt-10.sticky.top-0.hidden.lg\:block
+platform.twitter.com##.pt-10.sticky.top-0.hidden.lg\:block
+
