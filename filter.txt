@@ -406,3 +406,6 @@ voice.mv##body > div > div:nth-child(3) > div:nth-child(13) > div.w-full.rtl.lg\
 voice.mv##body > div > div:nth-child(3) > div:nth-child(11)
 voice.mv##body > div > div:nth-child(3) > div:nth-child(9)
 voice.mv##body > div > div:nth-child(3) > div:nth-child(7) > div.w-full.rtl.lg\:flex.lg\:-mx-3 > div.lg\:w-3\/5.w-full.lg\:mx-3.lg\:mt-0.mt-6 > div.mt-6
+
+!archive.mv
+archive.mv##.ad
