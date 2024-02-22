@@ -396,3 +396,13 @@ platform.twitter.com##.pt-10.sticky.top-0.hidden.lg\:block
 platform.twitter.com##.pt-10.sticky.top-0.hidden.lg\:block
 mihaaru.com##.flex-row-reverse.justify-between.mb-1.lg\:flex.xl\:-mx-4 > .hidden.lg\:block > .flex.items-center.justify-center
 
+!voice.mv
+voice.mv##div.w-full.pt-20:nth-of-type(2) > div:nth-of-type(1)
+voice.mv##body > div:nth-child(2) > div:nth-child(3) > div.lg\:mt-12.mt-4.md\:mt-6.w-full > div:nth-child(2) > div > div.lg\:w-2\/6.lg\:mx-3.lg\:mt-0.mt-6 > div:nth-child(1) > div
+voice.mv##body > div > div:nth-child(3) > div:nth-child(3) > div > div.lg\:w-3\/5.w-full.lg\:mx-3.lg\:mt-0
+voice.mv##body > div > div:nth-child(3) > div:nth-child(6)
+voice.mv##body > div > div:nth-child(3) > div:nth-child(15) > div.w-full.rtl.lg\:flex.lg\:-mx-3 > div.lg\:w-3\/5.w-full.lg\:mx-3.lg\:mt-0.mt-6 > div.mt-6
+voice.mv##body > div > div:nth-child(3) > div:nth-child(13) > div.w-full.rtl.lg\:flex.lg\:-mx-3 > div.lg\:w-3\/5.w-full.lg\:mx-3.lg\:mt-0.mt-6 > div.mt-6
+voice.mv##body > div > div:nth-child(3) > div:nth-child(11)
+voice.mv##body > div > div:nth-child(3) > div:nth-child(9)
+voice.mv##body > div > div:nth-child(3) > div:nth-child(7) > div.w-full.rtl.lg\:flex.lg\:-mx-3 > div.lg\:w-3\/5.w-full.lg\:mx-3.lg\:mt-0.mt-6 > div.mt-6
