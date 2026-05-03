@@ -399,6 +399,15 @@ mihaaru.com##.flex-1.lg\:pr-4.lg\:border-r.lg\:border-pale-grey.mt-8.w-full > .w
 mihaaru.com##.w-full.max-w-xl.xl\:max-w-3xl.flex.flex-col.items-end > div.w-full:nth-of-type(4) > .w-full.justify-center > .flex.items-center.justify-center
 mihaaru.com##.flex.items-center.justify-center.lg\:justify-start
 mihaaru.com##.block.xl\:block > .flex.items-center.justify-center
+mihaaru.com##[src*="https\:\/\/cdn1\.mihaaru\.com\/ads\/NDA3YmJmNmYzMDZhM2JkYTVmYTk0OGExNDk5N2U4ZGI\=\.jpg"]
+mihaaru.com##.max-w-4xl.flex.mx-auto.w-full > .flex.items-center.justify-center.w-full
+mihaaru.com##[src*="https\:\/\/cdn1\.mihaaru\.com\/ads\/NTYxMmJlM2VhYWUxZjgzOGYyZjg4YzRlNDJkMzUxYjY\=\.gif"]
+mihaaru.com##.hidden.md\:block > .flex.items-center.justify-center > .maw > .ma.ma-desktop > [href*="https\:\/\/ma-api\.mihaaru\.com\/r\/MTQ5MDY\="] > [src*="https\:\/\/cdn1\.mihaaru\.com\/ads\/YmFiNjJiNzU5ZDMwMzhmNGU0Nzc1ZmYxNTAzMjBjNzA\=\.gif"]
+mihaaru.com##.hidden.md\:block
+mihaaru.com##.space-y-4.p-4 > .flex.items-center.justify-center > .maw > .ma.ma-desktop > [href*="https\:\/\/ma-api\.mihaaru\.com\/r\/MTU1MzQ\="] > [src*="https\:\/\/cdn1\.mihaaru\.com\/ads\/YjU5ZDMzYWE5ZDA3ZmRmM2FjNzdlNjY5OGI1MGRjMTA\=\.gif"]
+mihaaru.com##.space-y-4.p-4 > .flex.items-center.justify-center > .maw
+mihaaru.com##.max-w-5xl.mx-auto > .flex.items-center.justify-center
+mihaaru.com##.maw.border-t.border-b.pt-\[36px\].pb-\[36px\].w-full.flex.justify-center.border-gray-400
 
 !voice.mv
 voice.mv##div.w-full.pt-20:nth-of-type(2) > div:nth-of-type(1)
