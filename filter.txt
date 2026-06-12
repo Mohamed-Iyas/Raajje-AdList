@@ -422,3 +422,6 @@ voice.mv##body > div > div:nth-child(3) > div:nth-child(7) > div.w-full.rtl.lg\:
 
 !archive.mv
 archive.mv##.ad
+
+!sauvees.com
+sauvees.com##.a-wrap.a-wrap-base.a-wrap-1.show-lg
