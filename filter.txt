@@ -1,15 +1,17 @@
 [Adblock Plus 2.0]
 ! Title: Raajje Adlist
 ! Description: Ad, sponsor and push-notification filters for Maldivian (.mv) news and media websites.
-! Version: 202607301300
-! Last modified: 30 July 2026 13:00 UTC
+! Version: 202607301500
+! Last modified: 30 July 2026 15:00 UTC
 ! Expires: 7 days
 ! Homepage: https://github.com/Mohamed-Iyas/Raajje-AdList
 ! License: https://creativecommons.org/licenses/by-nc/4.0/
 ! Download: https://raw.githubusercontent.com/Mohamed-Iyas/Raajje-AdList/master/filter.txt
 !
-! Requires uBlock Origin or AdGuard. This list uses procedural cosmetic
-! filters (:has, :has-text, :upward, :style) that Adblock Plus does not support.
+! Requires Brave 1.73+, uBlock Origin, or AdGuard. This list uses procedural
+! cosmetic filters (:has, :has-text, :upward, :style) that Adblock Plus does
+! not support. Brave 1.73+ added procedural filtering in adblock-rust; earlier
+! Brave versions will silently discard those rules.
 !
 ! Sections are ordered alphabetically by domain. Rules are scoped to a
 ! registrable domain wherever possible, which also covers its subdomains.

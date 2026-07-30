@@ -5,16 +5,27 @@ Raajje Adlist is a curated adblock filter list specifically designed to block in
 
 This project aims to improve the user experience on Maldivian websites by enhancing page load speeds, reducing data consumption, and removing visual clutter. The list complements existing adblock filters.
 
-> **Requires uBlock Origin or AdGuard.** The list uses procedural cosmetic filters (`:has`, `:has-text`, `:upward`, `:style`) that Adblock Plus does not support. Adblock Plus will silently discard those rules.
+> **Requires Brave 1.73+, uBlock Origin, or AdGuard.** The list uses procedural cosmetic filters (`:has`, `:has-text`, `:upward`, `:style`) that Adblock Plus does not support. Brave 1.73+ added procedural filtering in its built-in adblock engine; earlier Brave versions will silently discard those rules.
 
 ## Features
 - **Blocks intrusive ads**: Blocks large banners, pop-ups, and other intrusive elements on various Maldivian websites.
 - **Optimized for Maldivian (Raajje) websites**: Specially crafted for websites like Sun.mv, Mihaaru.com, Vaguthu.mv, and many more.
 - **Improves page load speeds**: Reduces bandwidth usage and speeds up page loading times by blocking multimedia ads.
-- **Easy to integrate**: Works with uBlock Origin and AdGuard.
+- **Easy to integrate**: Works with Brave 1.73+, uBlock Origin, and AdGuard from a single subscription URL.
 
 ## How to Use
 Follow the steps below to add the Raajje Adlist to your adblocker:
+
+### For Brave
+1. **Open Shields filter settings**: Go to `brave://settings/shields/filters` (or `brave://adblock`).
+2. **Add a custom filter list**:
+   - Under **Add custom filter lists**, paste the raw URL: [Raajje Adlist](https://raw.githubusercontent.com/Mohamed-Iyas/Raajje-AdList/master/filter.txt).
+   - Click **Add**, then **Save changes**.
+3. **Force-update the list**: On the same page, click the refresh icon next to the list so Brave pulls the latest rules.
+4. **Enable Aggressive blocking** (recommended): Open Shields for a Maldivian site → set **Trackers & ads blocking** to **Aggressive**. Many `.mv` publishers serve first-party sponsor slots that Standard mode leaves visible; Aggressive mode applies cosmetic rules to those slots too.
+5. **Refresh the page**: Reload any open Maldivian websites.
+
+No separate Brave-only file is needed — Brave’s `adblock-rust` engine is broadly compatible with uBlock Origin filter syntax, including the procedural rules in this list (Brave 1.73+).
 
 ### For uBlock Origin
 1. **Open uBlock Origin Dashboard**: Click the uBlock Origin icon in your browser and open the dashboard.
@@ -38,6 +49,19 @@ The list is checked with [AGLint](https://github.com/AdguardTeam/AGLint) using t
 ```bash
 npx @adguard/aglint filter.txt
 ```
+
+## Brave smoke-test checklist
+After subscribing in Brave, verify blocking on these representative sites:
+
+| Site | What to check |
+|------|----------------|
+| [mihaaru.com](https://mihaaru.com) | No `.maw` banner slots; no creatives from `cdn1.mihaaru.com/ads` |
+| [dho.mv](https://dho.mv) | No header ad space (`.header__ad-space`) or full-width ad sections |
+| [adhadhu.com](https://adhadhu.com) | No "Advertisement" label blocks in article sidebar |
+| [dhuvas.mv](https://dhuvas.mv) | No sponsored search-bar background on the homepage |
+| [javiyani.mv](https://javiyani.mv) | No AdRotate slots (`.g-single` banners) in Elementor sections |
+
+If ads still appear, confirm Brave is **1.73 or newer** (`brave://version`), the list shows as enabled under Shields → Filter lists, and Aggressive blocking is on for that site.
 
 ## Websites Supported
 Raajje Adlist covers a wide range of Maldivian websites, including:
