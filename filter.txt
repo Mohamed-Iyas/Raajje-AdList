@@ -411,6 +411,10 @@ mihaaru.com##.space-y-4.p-4 > .flex.items-center.justify-center > .maw > .ma.ma-
 mihaaru.com##.space-y-4.p-4 > .flex.items-center.justify-center > .maw
 mihaaru.com##.max-w-5xl.mx-auto > .flex.items-center.justify-center
 mihaaru.com##.maw.border-t.border-b.pt-\[36px\].pb-\[36px\].w-full.flex.justify-center.border-gray-400
+mihaaru.com##[src*="https\:\/\/cdn1\.mihaaru\.com\/ads\/ZmJjZDI1ODIzYmM3OTI4OTNhN2E2NDhlYTA0YjQ5N2Y\=\.gif"]
+mihaaru.com##.article-body.space-y-10 > div:nth-of-type(2) > .flex.items-center.justify-center > .maw
+mihaaru.com##[src*="https\:\/\/cdn1\.mihaaru\.com\/ads\/ZDhhZjFjOWZlYzJmNDQ1MDQ4ZTM3NTYzZTc3M2ZjOGM\=\.gif"]
+mihaaru.com##.space-y-10.mt-10 > div.flex.items-center.justify-center:nth-of-type(2) > .maw
 
 !voice.mv
 voice.mv##div.w-full.pt-20:nth-of-type(2) > div:nth-of-type(1)
@@ -428,3 +432,5 @@ archive.mv##.ad
 
 !sauvees.com
 sauvees.com##.a-wrap.a-wrap-base.a-wrap-1.show-lg
+sauvees.com##.a-wrap.a-wrap-base.a-wrap-1.show-lg
+sauvees.com##.has-el-gap.el-gap-default.elementor-section.elementor-top-section.elementor-element.elementor-element-8117714.elementor-section-boxed.elementor-section-height-default
