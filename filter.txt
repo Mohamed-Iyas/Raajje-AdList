@@ -165,6 +165,13 @@ dhiyares.com##.text-center.mt-12.md\:mx-0.mx-2.my-8.ads
 dhiyares.com##.md\:mx-auto.mx-4.md\:mt-0.mt-12.text-center
 dhiyares.com##.md\:px-0.mx-auto.my-4.mt-8.container.px-2
 
+! dho.mv
+! Same Mihaaru Ad Wrapper (.maw) stack as mihaaru.com; creatives load from
+! cdn1.mihaaru.com/ads which is already blocked at the network layer below.
+! Cosmetic .maw hide is listed with mihaaru.com.
+dho.mv##.header__ad-space
+dho.mv##.advertisement__full
+
 ! dhuvas.mv
 dhuvas.mv##.td-container-wrap.td-banner-wrap-full
 dhuvas.mv##.bsaGridGutter.bsaProItems
@@ -248,7 +255,7 @@ haftha.mv###sidepost > div:nth-of-type(3)
 haftha.mv##.hafth-inside-content
 haftha.mv##.hafth-after-content
 haftha.mv##.height420[style*="background"]
-haftha.mv##.width100[style*="height:170px"]
+haftha.mv##.width100[style=" height:170px;"]
 haftha.mv##.rt-parallax-bg-no.elementor-section-height-default.elementor-section-boxed.elementor-element-47aa3a2.elementor-element.elementor-top-section.elementor-section
 haftha.mv##.rt-parallax-bg-no.elementor-section-height-default.elementor-section-boxed.elementor-element-9c26fb1.elementor-element.elementor-top-section.elementor-section
 haftha.mv##.rt-parallax-bg-no.elementor-section-height-default.elementor-section-boxed.elementor-element-d4360e1.elementor-element.elementor-top-section.elementor-section
@@ -337,7 +344,7 @@ miadhu.mv##div.row:nth-of-type(6)
 ! mihaaru.com
 ! .maw is the ad wrapper and .ma/.ma-desktop the creative. Blocking the ad
 ! host at the network layer also covers every future creative filename.
-mihaaru.com##.maw
+dho.mv,mihaaru.com##.maw
 mihaaru.com##.flex.items-center.justify-center:has(> .maw)
 mihaaru.com##.pt-10.sticky.top-0.hidden.lg\:block
 mihaaru.com##.lg\:block.hidden.mb-10
