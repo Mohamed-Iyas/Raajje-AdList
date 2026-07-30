@@ -131,6 +131,9 @@ raajje.mv##.mobile_hide.col-md-4 > .img-responsive.img
 raajje.mv##div.col-md-12:nth-of-type(4)
 raajje.mv###fadeMe > .img-responsive.img
 ||cloudfront.net/static-files/ads^$image,domain=raajje.mv
+raajje.mv##.w-full.h-auto.object-cover.rounded
+raajje.mv##.ad-banner.hidden.lg\:block > .block.w-full.h-full.relative > .absolute.bottom-0.left-0.text-white.text-xs.bg-black\/50.px-2.py-1.rounded-tr
+raajje.mv##.grid.grid-cols-1.lg\:grid-cols-2.gap-8.mb-8 > div.ad-banner:nth-of-type(2) > .block.w-full.h-full.relative > .absolute.bottom-0.left-0.text-white.text-xs.bg-black\/50.px-2.py-1.rounded-tr
 
 !kulhudhuffushi.com
 kulhudhuffushi.com##.side-advertisement
